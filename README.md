@@ -1,0 +1,2 @@
+# springbootKadai
+天気情報取得WebAPIマイクロサービス
